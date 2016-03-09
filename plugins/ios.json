@@ -1,0 +1,65 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-sharingreceptor": {
+            "PACKAGE_NAME": "com.konecty.rocket.chat"
+        },
+        "com.meteor.cordova-update": {
+            "PACKAGE_NAME": "com.konecty.rocket.chat"
+        },
+        "cordova-plugin-appinfo": {
+            "PACKAGE_NAME": "com.konecty.rocket.chat"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.konecty.rocket.chat"
+        },
+        "cordova-plugin-crosswalk-webview": {
+            "PACKAGE_NAME": "com.konecty.rocket.chat"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.konecty.rocket.chat"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.konecty.rocket.chat"
+        },
+        "cordova-plugin-facebook4": {
+            "APP_ID": "835103589938459",
+            "APP_NAME": "Rocket.Chat",
+            "PACKAGE_NAME": "com.konecty.rocket.chat"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.konecty.rocket.chat"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.konecty.rocket.chat"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.konecty.rocket.chat"
+        },
+        "cordova-plugin-legacy-whitelist": {
+            "PACKAGE_NAME": "com.konecty.rocket.chat"
+        },
+        "cordova-plugin-rocket-chat": {
+            "PACKAGE_NAME": "com.konecty.rocket.chat"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.konecty.rocket.chat"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.konecty.rocket.chat"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.konecty.rocket.chat"
+        },
+        "phonegap-plugin-push": {
+            "PACKAGE_NAME": "com.konecty.rocket.chat"
+        }
+    },
+    "dependent_plugins": {}
+}

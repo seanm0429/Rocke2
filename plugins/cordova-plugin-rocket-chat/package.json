@@ -1,0 +1,38 @@
+{
+  "name": "cordova-plugin-rocket-chat",
+  "version": "0.0.1",
+  "author": "Rodrigo K. Nascimento <support@rocket.chat>",
+  "description": "Cordova Plugin to configure RocketChat.",
+  "cordova": {
+    "id": "cordova-plugin-rocket-chat",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RocketChat/cordova-plugin-rocket-chat.git"
+  },
+  "keywords": [
+    "cordova",
+    "ios",
+    "app",
+    "queries",
+    "url",
+    "schemes",
+    "lsapplicationqueriesschemes",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RocketChat/cordova-plugin-rocket-chat/issues"
+  },
+  "homepage": "https://github.com/RocketChat/cordova-plugin-rocket-chat#readme"
+}
